@@ -2,6 +2,7 @@
 <h3 align="center">A passionate mern stack developer</h3>
 <img align="right" width="400"  height="400" src="![Uploading image.png…]()
 
+
 " alt="tusharghatode" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharghatode&label=Profile%20views&color=0e75b6&style=flat" alt="tusharghatode" /> </p>
