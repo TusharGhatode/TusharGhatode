@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tushar Ghatode</h1>
 <h3 align="center">A passionate mern stack developer</h3>
-<img align="right" width="400" src="<img src="https://komarev.com/ghpvc/?username=tusharghatode&label=Profile%20views&color=0e75b6&style=flat" alt="tusharghatode" />" alt="tusharghatode" />
+<img align="right" width="400" src="<img src="[https://komarev.com/ghpvc/?username=tusharghatode&label=Profile%20views&color=0e75b6&style=flat](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)" alt="tusharghatode" />" alt="tusharghatode" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharghatode&label=Profile%20views&color=0e75b6&style=flat" alt="tusharghatode" /> </p>
 
