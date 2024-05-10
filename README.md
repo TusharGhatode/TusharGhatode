@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tushar Ghatode</h1>
 <h3 align="center">A passionate mern stack developer</h3>
-<img align="right" width="400" src="![Uploading image.png…]()
+<img align="right" width="400"  height="400" src="![Uploading image.png…]()
 
 " alt="tusharghatode" />
 
