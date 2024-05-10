@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tushar Ghatode</h1>
 <h3 align="center">A passionate mern stack developer</h3>
 
-<p align="left"> <img src="[![image](https://github.com/TusharGhatode/TusharGhatode/assets/123729340/0f8f9101-e6a3-4f8d-b392-1a06c6feb4c7)](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)
+<p align="right"> <img src="![image](https://github.com/TusharGhatode/TusharGhatode/assets/123729340/0f9114eb-a75d-44c6-a0b1-22b231e168bf)
+
 " alt="tusharghatode" /> </p>
 
 - 🌱 I’m currently learning **mongoDB, expressjs,reactjs,nodejs**
