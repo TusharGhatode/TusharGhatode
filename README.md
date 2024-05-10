@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Ghatode</h1>
 <h3 align="center">A passionate mern stack developer</h3>
-<img align="right" width="400" src="![image](https://github.com/TusharGhatode/TusharGhatode/assets/123729340/db4086a4-69fc-4b5a-86c9-eebfbf568d0f)
+<img align="right" width="400" src="![Uploading image.png…]()
+
 " alt="tusharghatode" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharghatode&label=Profile%20views&color=0e75b6&style=flat" alt="tusharghatode" /> </p>
