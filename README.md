@@ -1,9 +1,9 @@
-![image](https://github.com/TusharGhatode/TusharGhatode/assets/123729340/7704f88a-11c8-40c7-a77d-0d50951ab439)<h1 align="center">Hi 👋, I'm Tushar Ghatode</h1>
+<h1 align="center">Hi 👋, I'm Tushar Ghatode</h1>
 <h3 align="center">A passionate mern stack developer</h3>
-<img align="right" width="400" src="![image](https://github.com/TusharGhatode/TusharGhatode/assets/123729340/dd763269-eeed-4207-bac0-528c45a12acb)
-" alt="tusharghatode" />
+<img align="right" width="400" src="" alt="tusharghatode" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharghatode&label=Profile%20views&color=0e75b6&style=flat" alt="tusharghatode" /> </p>
+<p align="left"> <img src="![image](https://github.com/TusharGhatode/TusharGhatode/assets/123729340/0f8f9101-e6a3-4f8d-b392-1a06c6feb4c7)
+" alt="tusharghatode" /> </p>
 
 - 🌱 I’m currently learning **mongoDB, expressjs,reactjs,nodejs**
 
