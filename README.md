@@ -6,7 +6,6 @@
 
 ## 🚀 About Me
 
-- 🌍 Based in India
 - 💻 Proficient in MongoDB, Express.js, React.js, Node.js
 - 📚 Currently learning advanced API integration and performance optimization
 - 🎯 Focused on creating user-friendly interfaces and optimizing backend performance
