@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Tushar Ghatode!
 
 🌟 A passionate MERN Stack Developer with a knack for building scalable web applications and a love for clean code.
 
@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-- 🌍 Based in [Your Location]
+- 🌍 Based in India
 - 💻 Proficient in MongoDB, Express.js, React.js, Node.js
-- 📚 Currently learning [Any new technology or framework]
+- 📚 Currently learning advanced API integration and performance optimization
 - 🎯 Focused on creating user-friendly interfaces and optimizing backend performance
 
 ---
@@ -23,32 +23,31 @@
 
 ## 🌱 Projects
 
-### [Project Name 1](link-to-your-project)
-- **Description:** Briefly describe what the project does and the technologies used.
+### [DineHub E-commerce](link-to-your-project)
+- **Description:** Built a full-stack e-commerce platform with user authentication, cart functionality, product management, and secure payment processing.
 - **Tech Stack:** MongoDB, Express.js, React.js, Node.js
 
-### [Project Name 2](link-to-your-project)
-- **Description:** Briefly describe the project.
-- **Tech Stack:** [Your Tech Stack]
+### [Job Listing Platform](link-to-your-project)
+- **Description:** Developed a job-listing platform with real-time filters for location, experience, and work mode. Implemented role-based access control for recruiters and job seekers.
+- **Tech Stack:** MongoDB, Express.js, React.js, Node.js
 
-### [Project Name 3](link-to-your-project)
-- **Description:** Briefly describe the project.
-- **Tech Stack:** [Your Tech Stack]
+### [YouTube Clone](link-to-your-project)
+- **Description:** Created a YouTube clone using React and YouTube API, featuring dynamic video search and real-time data fetching.
+- **Tech Stack:** React.js, YouTube API, RESTful APIs
 
 ---
 
 ## 📫 How to Reach Me
 
-- 🌐 [Your Portfolio Website](link-to-your-portfolio)
-- 📧 [Your Email](mailto:youremail@example.com)
-- 🔗 [LinkedIn](link-to-your-linkedin)
-- 🐦 [Twitter](link-to-your-twitter)
+- 🌐 [Portfolio Website](link-to-your-portfolio)
+- 📧 [tusharghatode16@gmail.com](mailto:tusharghatode16@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tushar-ghatode-504197211/)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 ---
 
