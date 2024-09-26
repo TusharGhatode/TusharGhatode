@@ -23,15 +23,15 @@
 
 ## 🌱 Projects
 
-### [DineHub E-commerce](link-to-your-project)
+### [DineHub E-commerce](https://dinehub1-ecommerse.netlify.app/)
 - **Description:** Built a full-stack e-commerce platform with user authentication, cart functionality, product management, and secure payment processing.
 - **Tech Stack:** MongoDB, Express.js, React.js, Node.js
 
-### [Job Listing Platform](link-to-your-project)
+### [Job Listing Platform](https://listing-job.netlify.app/)
 - **Description:** Developed a job-listing platform with real-time filters for location, experience, and work mode. Implemented role-based access control for recruiters and job seekers.
 - **Tech Stack:** MongoDB, Express.js, React.js, Node.js
 
-### [YouTube Clone](link-to-your-project)
+### [YouTube Clone](https://youhtube.netlify.app/)
 - **Description:** Created a YouTube clone using React and YouTube API, featuring dynamic video search and real-time data fetching.
 - **Tech Stack:** React.js, YouTube API, RESTful APIs
 
@@ -45,11 +45,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
----
 
 ## 🌟 Let's Connect!
 
