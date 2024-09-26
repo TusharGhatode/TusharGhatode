@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Tushar Ghatode!
 
-🌟 A passionate MERN Stack Developer with a knack for building scalable web applications and a love for clean code.
+🌟 I'm a passionate MERN Stack Developer dedicated to creating scalable and efficient web applications. With a strong focus on clean, maintainable code, I thrive on turning ideas into functional solutions. I enjoy collaborating on innovative projects and continuously expanding my skill set in web development.
 
 ---
 
