@@ -39,9 +39,9 @@
 
 ## 📫 How to Reach Me
 
-- 🌐 [Portfolio Website](link-to-your-portfolio)
+- 🌐 [Portfolio Website](https://introduceportfolio.netlify.app/)
 - 📧 [tusharghatode16@gmail.com](mailto:tusharghatode16@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/tushar-ghatode-504197211/)
+- 🔗 [LinkedIn](www.linkedin.com/in/tushar-ghatode-504197211)
 
 ---
 
